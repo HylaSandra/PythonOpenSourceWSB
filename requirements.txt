@@ -1,0 +1,11 @@
+#Wymagane
+Werkzeug
+Jinja
+MarkupSafe
+ItsDangerous
+Click
+
+#Opcjonalne
+Blinker
+python-dotenv 
+Watchdog
